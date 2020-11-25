@@ -55,19 +55,11 @@ Contributed by ?.
 ## [Survey papers](#content)
 
 ## [Auto-encoders](#content)
-#### Stacked Auto-encoders(#content)
+#### Stacked Auto-encoders
 
-1. **Modularity based community detection with deep learning.** IJCA 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/321.pdf)
+1. **Network embedding for community detection in attributed networks.** ACM TKDD 2020. [paper]()
 
-    *L. Yang, X. Cao, D. He, C. Wang, X. Wang, and W. Zhang*
-
-1. **Incorporating network structure with node contents for community detection on large networks using deep learning.** Neurocomputing 2018. [paper]()
-
-    *J. Cao, D. Jin, L. Yang, and J. Dang*
-
-1. **Autoencoder based community detection with adaptive integration of network topology and node contents.** KSEM 2018. [paper]()
-
-     *J. Cao, D. Jin, and J. Dang*
+     *H. Sun, F. He, J. Huang, Y. Sun, Y. Li, C. Wang, L. He, Z. Sun, and X. Jia*
      
 1. **High-performance community detection in social networks using a deep transitive autoencoder.** Information Sciences 2019. [paper]()
 
@@ -76,20 +68,64 @@ Contributed by ?.
 1. **A distributed overlapping community detection model for large graphs using autoencoder.** Future Generation Computer Systems 2019. [paper]()
 
      *V. Bhatia and R. Rani*
-     
+
+1. **Incorporating network structure with node contents for community detection on large networks using deep learning.** Neurocomputing 2018. [paper]()
+
+    *J. Cao, D. Jin, L. Yang, and J. Dang*
+
+1. **Autoencoder based community detection with adaptive integration of network topology and node contents.** KSEM 2018. [paper]()
+
+     *J. Cao, D. Jin, and J. Dang*
+    
 1. **Using deep learning for community discovery in social networks.** ICTAI 2017. [paper]()
 
      *J. Di, G. Meng, L. Zhixuan, L. Wenhuan, H. Dongxiao, and F. Fogelman-Soulie*
-     
-#### Stacked Auto-encoders
+  
+1. **Modularity based community detection with deep learning.** IJCAI 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/321.pdf)
 
-
+    *L. Yang, X. Cao, D. He, C. Wang, X. Wang, and W. Zhang*
+    
 #### Sparse Auto-encoders
+     
+1. **Stacked autoencoderbased community detection method via an ensemble clustering framework.** Information Sciences 2020. [paper]()
 
+     *R. Xu, Y. Che, X. Wang, J. Hu, and Y. Xie*
+     
+1. **Dfuzzy: a deep learning-based fuzzy clustering model for large graphs.** Knowledge and Information Systems 2018. [paper]()
 
+     *V. Bhatia and R. Rani*
+ 
+1. **Learning deep representations for graph clustering.** AAAI 2014. [paper]()
+ 
+     *F. Tian, B. Gao, Q. Cui, E. Chen, and T. Liu*
+    
 #### Denoising Auto-encoders
 
+1. **MGAE: marginalized graph autoencoder for graph clustering.** CIKM 2017. [paper]()
 
+     *C. Wang, S. Pan, G. Long, X. Zhu, and J. Jiang*
+     
+1. **Graph clustering with dynamic embedding.** arXiv 2017. [paper]()
+
+     *C. Yang, M. Liu, Z. Wang, L. Liu, and J. Han*
+     
 #### Variational Auto-encoders
+
+1. **Network-specific
+variational auto-encoder for embedding in attribute networks.** IJCAI 2019. [paper]
+
+     *D. Jin, B. Li, P. Jiao, D. He, and W. Zhang*
+     
+1. **Optimizing variational graph autoencoder for community detection.** BigData 2019. [paper]
+
+     *J. J. Choong, X. Liu, and T. Murata*
+     
+1. **Learning community structure with variational autoencoder.** ICDM 2018. [paper]
+
+     *J. J. Choong, X. Liu, and T. Murata*
+
+1. **Adversarially regularized graph autoencoder for graph embedding.** IJCAI 2018. [paper]
+
+     *S.Pan, R. Hu, G. Long, J. Jiang, L. Yao, and C. Zhang*
 
 
