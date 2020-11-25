@@ -23,7 +23,7 @@ Contributed by XX, XX and XX.
     <td>&emsp;&ensp;<a href="#GAN">4.2 Generative Adversarial Network-based Methods</a></td>
 </tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#Graph Convolutional Network-based Methods">4.3 Graph Convolutional Network-based Methods</a></td>
+    <td>&emsp;&ensp;<a href="#Graph-Convolutional-Network-based-Methods">4.3 Graph Convolutional Network-based Methods</a></td>
 </tr> 
 <tr>
     <td>&emsp;&ensp;<a href="#GCNUGM">4.4 Integrating Graph Convolutional Network and Undirected Graphical Models</a></td>
