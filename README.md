@@ -15,18 +15,18 @@ Contributed by XX, XX and XX.
 <tr>
     <td>&emsp;&ensp;<a href="#DMUM">3.3 Integrating Directed and Undirected Models</a></td>
 </tr>
-<tr><td colspan="2"><a href="#ch4">4. COMMUNITY DETECTION WITH DEEP LEARNING</a></td></tr> 
+<tr><td colspan="2"><a href="#COMMUNITY-DETECTION-WITH-DEEP-LEARNING">4. COMMUNITY DETECTION WITH DEEP LEARNING</a></td></tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#AE">4.1 Auto-encoder-based Methods</a></td>
+    <td>&emsp;&ensp;<a href="#Auto-encoder-based-Methods">4.1 Auto-encoder-based Methods</a></td>
 </tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#GAN">4.2 Generative Adversarial Network-based Methods</a></td>
+    <td>&emsp;&ensp;<a href="#Generative-Adversarial-Network-based-Methods">4.2 Generative Adversarial Network-based Methods</a></td>
 </tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#Graph-Convolutional-based-Methods">4.3 Graph Convolutional Network-based Methods</a></td>
+    <td>&emsp;&ensp;<a href="#Graph-Convolutional-Network-based-Methods">4.3 Graph Convolutional Network-based Methods</a></td>
 </tr> 
 <tr>
-    <td>&emsp;&ensp;<a href="#GCNUGM">4.4 Integrating Graph Convolutional Network and Undirected Graphical Models</a></td>
+    <td>&emsp;&ensp;<a href="#Integrating-Graph-Convolutional-Network-and-Undirected-Graphical-Models">4.4 Integrating Graph Convolutional Network and Undirected Graphical Models</a></td>
 </tr>
 </table>
 
