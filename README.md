@@ -95,7 +95,7 @@ Contributed by XX, XX and XX.
 
      *Vandana Bhatia, Rinkle Rani*
  
-1. **Learning deep representations for graph clustering.** AAAI 2014. [paper](http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8527)
+1. **Learning deep representations for graph clustering.** AAAI 2014. [paper](https://dl.acm.org/doi/10.5555/2893873.2894074)
  
      *Fei Tian, Bin Gao, Qing Cui, Enhong Chen, Tie-Yan Liu*
     
