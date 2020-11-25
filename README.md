@@ -55,7 +55,7 @@ Contributed by ?.
 ## [Survey papers](#content)
 
 ## [Auto-encoders](#content)
-#### Stacked Auto-encoders
+#### Stacked Auto-encoders(#content)
 
 1. **Modularity based community detection with deep learning.** IJCA 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/321.pdf)
 
