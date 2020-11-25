@@ -11,6 +11,9 @@
 1. **Interaction Networks for Learning about Objects, Relations and Physics.**
 *Peter Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, Koray Kavukcuoglu.* NIPS 2016. [paper](https://arxiv.org/pdf/1612.00222.pdf)
 
+1. **Graph Neural Networks: A Review of Methods and Applications.**
+*Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 2018. [paper](https://arxiv.org/pdf/1812.08434.pdf)
+
 
 #### Stacked Auto-encoders
 
