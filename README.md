@@ -5,6 +5,13 @@
 1. **Modularity based community detection with deep learning**
 *L. Yang, X. Cao, D. He, C. Wang, X. Wang, and W. Zhang* IJCA 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/321.pdf)
 
+-1. **Interaction Networks for Learning about Objects, Relations and Physics**
+*Peter Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, Koray Kavukcuoglu* NIPS 2016. [paper](https://arxiv.org/pdf/1612.00222.pdf)
+
+1. **Interaction Networks for Learning about Objects, Relations and Physics.**
+*Peter Battaglia, Razvan Pascanu, Matthew Lai, Danilo Rezende, Koray Kavukcuoglu.* NIPS 2016. [paper](https://arxiv.org/pdf/1612.00222.pdf)
+
+
 #### Stacked Auto-encoders
 
 
