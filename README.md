@@ -7,7 +7,7 @@ Contributed by ?.
 <tr><td colspan="2"><a href="#models">2. Models</a></td></tr>
 <tr>
     <td>&emsp;<a href="#basic-models">2.1 Basic Models</a></td>
-    <td>&emsp;<a href="#graph-types">2.2 Graph Types</a></td>
+    <td>&ensp;<a href="#graph-types">2.2 Graph Types</a></td>
 </tr>
 <tr>
     <td>&emsp;<a href="#pooling-methods">2.3 Pooling Methods</a></td>
