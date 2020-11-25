@@ -127,4 +127,10 @@ variational auto-encoder for embedding in attribute networks.** IJCAI 2019. [pap
 
      *S.Pan, R. Hu, G. Long, J. Jiang, L. Yao, and C. Zhang*
 
+## [Generative Adversarial Network-based Methods](#content)
 
+## [Graph Convolutional Network-based Methods](#content)
+
+## [Integrating Graph Convolutional Network and Undirected Graphical Models](#content)
+
+ 
