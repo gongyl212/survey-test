@@ -61,8 +61,26 @@ Contributed by ?.
 
     *L. Yang, X. Cao, D. He, C. Wang, X. Wang, and W. Zhang*
 
+1. **Incorporating network structure with node contents for community detection on large networks using deep learning.** Neurocomputing 2018. [paper]()
 
+    *J. Cao, D. Jin, L. Yang, and J. Dang*
 
+1. **Autoencoder based community detection with adaptive integration of network topology and node contents.** KSEM 2018. [paper]()
+
+     *J. Cao, D. Jin, and J. Dang*
+     
+1. **High-performance community detection in social networks using a deep transitive autoencoder.** Information Sciences 2019. [paper]()
+
+     *Y. Xie, X. Wang, D. Jiang, and R. Xu*
+     
+1. **A distributed overlapping community detection model for large graphs using autoencoder.** Future Generation Computer Systems 2019. [paper]()
+
+     *V. Bhatia and R. Rani*
+     
+1. **Using deep learning for community discovery in social networks.** ICTAI 2017. [paper]()
+
+     *J. Di, G. Meng, L. Zhixuan, L. Wenhuan, H. Dongxiao, and F. Fogelman-Soulie*
+     
 #### Stacked Auto-encoders
 
 
