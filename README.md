@@ -1,3 +1,4 @@
+@@ -71,6 +71,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
 @@ -4,33 +4,56 @@ GNN: graph neural network
 Contributed by ?.
 
@@ -51,8 +52,6 @@ Contributed by ?.
     <td>&ensp;<a href="#social-network">3.16 Social Network</a></td>
 </tr> 
 </table>
-
-## [Survey papers](#content)
 
 ## [Auto-encoders](#content)
 #### Stacked Auto-encoders
