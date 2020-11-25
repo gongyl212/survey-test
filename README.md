@@ -75,9 +75,9 @@ Contributed by XX, XX and XX.
     
 #### Sparse Auto-encoders
      
-1. **Stacked autoencoderbased community detection method via an ensemble clustering framework.** Information Sciences 2020. [paper]()
+1. **Stacked autoencoderbased community detection method via an ensemble clustering framework.** Inf. Sci 2020. [paper](https://www.sciencedirect.com/science/article/pii/S002002552030270X)
 
-     *R. Xu, Y. Che, X. Wang, J. Hu, and Y. Xie*
+     *Rongbin Xu, Yan Che, Xinmei Wang, Jianxiong Hu, Ying Xie*
      
 1. **Dfuzzy: a deep learning-based fuzzy clustering model for large graphs.** Knowl. Inf. Syst. 2018. [paper](https://link.springer.com/article/10.1007/s10115-018-1156-3)
 
