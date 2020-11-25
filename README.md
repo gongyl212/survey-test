@@ -1,6 +1,6 @@
-@@ -71,6 +71,10 @@ Contributed by Jie Zhou, Ganqu Cui, Zhengyan Zhang and Yushi Bai.
-@@ -4,33 +4,56 @@ GNN: graph neural network
-Contributed by ?.
+# A title
+
+Contributed by XX, XX and XX.
 
 ## [Content](#content)
 <table>
