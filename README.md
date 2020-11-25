@@ -31,8 +31,9 @@ Contributed by XX, XX and XX.
     <td>&emsp;<a href="#computer-vision">3.5 Computer Vision</a></td>
     <td>&ensp;<a href="#natural-language-processing">3.6 Natural Language Processing</a></td>
 </tr> 
+<tr><td colspan="2"><a href="#ch4">4. COMMUNITY DETECTION WITH DEEP LEARNING</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#generation">3.7 Generation</a></td>
+    <td>&emsp;<a href="#AE">4.1 Auto-encoder-based Methods</a></td>
     <td>&ensp;<a href="#combinatorial-optimization">3.8 Combinatorial Optimization</a></td>
 </tr> 
 <tr>
@@ -53,7 +54,7 @@ Contributed by XX, XX and XX.
 </tr> 
 </table>
 
-## [Auto-encoders](#content)
+## [Auto-encoder-based Methods](#AE)
 #### Stacked Auto-encoders
 
 1. **Network embedding for community detection in attributed networks.** ACM TKDD 2020. [paper]()
@@ -132,5 +133,24 @@ variational auto-encoder for embedding in attribute networks.** IJCAI 2019. [pap
 ## [Graph Convolutional Network-based Methods](#content)
 
 ## [Integrating Graph Convolutional Network and Undirected Graphical Models](#content)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
