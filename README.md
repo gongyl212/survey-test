@@ -54,7 +54,7 @@ Contributed by XX, XX and XX.
 </tr> 
 </table>
 
-## [Auto-encoder-based Methods](#AE)
+## [Auto-encoder-based Methods](#content)
 #### Stacked Auto-encoders
 
 1. **Network embedding for community detection in attributed networks.** ACM TKDD 2020. [paper]()
