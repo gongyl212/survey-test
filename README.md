@@ -125,7 +125,7 @@ Contributed by XX, XX and XX.
      
      *Liang Yang, Yuexue Wang, Junhua Gu, Chuan Wang, Xiaochun Cao, Yuanfang Guo*
      
-1. **Adversarial attack on community detection by hiding individuals.** www 2020. [paper](https://dl.acm.org/doi/10.1145/3366423.3380171)
+1. **Adversarial attack on community detection by hiding individuals.** WWW 2020. [paper](https://dl.acm.org/doi/10.1145/3366423.3380171)
      
      *Jia Li, Honglei Zhang, Zhichao Han, Yu Rong, Hong Cheng, Junzhou Huang*
      
