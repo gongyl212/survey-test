@@ -34,24 +34,12 @@ Contributed by XX, XX and XX.
 <tr><td colspan="2"><a href="#ch4">4. COMMUNITY DETECTION WITH DEEP LEARNING</a></td></tr> 
 <tr>
     <td>&emsp;<a href="#AE">4.1 Auto-encoder-based Methods</a></td>
-    <td>&ensp;<a href="#combinatorial-optimization">3.8 Combinatorial Optimization</a></td>
+    <td>&ensp;<a href="#GAN">4.2 Generative Adversarial Network-based Methods</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#adversarial-attack">3.9 Adversarial Attack</a></td>
-    <td>&ensp;<a href="#graph-clustering">3.10 Graph Clustering</a></td>
+    <td>&emsp;<a href="#GCN">4.3 Graph Convolutional Network-based Methods</a></td>
+    <td>&ensp;<a href="#GCNUGM">4.4 Integrating Graph Convolutional Network and Undirected Graphical Models</a></td>
 </tr>
-<tr>
-    <td>&emsp;<a href="#graph-classification">3.11 Graph Classification</a></td>
-    <td>&ensp;<a href="#reinforcement-learning">3.12 Reinforcement Learning</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#traffic-network">3.13 Traffic Network</a></td>
-    <td>&ensp;<a href="#few-shot-and-zero-shot-learning">3.14 Few-shot and Zero-shot Learning</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#program-representation">3.15 Program Representation</a></td>
-    <td>&ensp;<a href="#social-network">3.16 Social Network</a></td>
-</tr> 
 </table>
 
 ## [Auto-encoder-based Methods](#content)
