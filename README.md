@@ -5,32 +5,14 @@ Contributed by XX, XX and XX.
 ## [Content](#content)
 <table>
 <tr><td colspan="2"><a href="#survey-papers"><a href="">1. Survey</a></td></tr> 
-<tr><td colspan="2"><a href="#models">2. Models</a></td></tr>
+<tr><td colspan="2"><a href="#ch3">3. COMMUNITY DETECTION WITH PROBABILISTIC GRAPHICAL MODEL</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#basic-models">2.1 Basic Models</a></td>
-    <td>&ensp;<a href="#graph-types">2.2 Graph Types</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#pooling-methods">2.3 Pooling Methods</a></td>
-    <td>&ensp;<a href="#analysis">2.4 Analysis</a></td>
-</tr>
-<tr>
-    <td>&emsp;<a href="#efficiency">2.5 Efficiency</a></td>
-    <td>&ensp;</td>
-</tr>
-<tr><td colspan="2"><a href="#applications">3. Applications</a></td></tr> 
-<tr>
-    <td>&emsp;<a href="#physics">3.1 Physics</a></td>
-    <td>&ensp;<a href="#chemistry-and-biology">3.2 Chemistry and Biology</a></td>
+    <td>&emsp;<a href="#DGM">3.1 Directed Graphical Models</a></td>
+    <td>&ensp;<a href="#UGM">3.2 Undirected Graphical Mode</a></td>
 </tr> 
 <tr>
-    <td>&emsp;<a href="#knowledge-graph">3.3 Knowledge Graph</a></td>
-    <td>&ensp;<a href="#recommender-systems">3.4 Recommender Systems</a></td>
+    <td>&emsp;<a href="#DMUM">3.3 Integrating Directed and Undirected Models</a></td>
 </tr>
-<tr>
-    <td>&emsp;<a href="#computer-vision">3.5 Computer Vision</a></td>
-    <td>&ensp;<a href="#natural-language-processing">3.6 Natural Language Processing</a></td>
-</tr> 
 <tr><td colspan="2"><a href="#ch4">4. COMMUNITY DETECTION WITH DEEP LEARNING</a></td></tr> 
 <tr>
     <td>&emsp;<a href="#AE">4.1 Auto-encoder-based Methods</a></td>
