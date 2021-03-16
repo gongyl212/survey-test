@@ -6,7 +6,7 @@
 
 1. **TMPSS: A Deep Learning-Based Predictor for Secondary Structure and Topology Structure Prediction of Alpha-helical Transmembrane Proteins.** Frontiers in Bioengineering and Biotechnology 2020. [paper](https://www.frontiersin.org/articles/10.3389/fbioe.2020.629937/full)
 
-     *Zhe Liu, Yingli Gong, Yihang Bao, Yuanzhao Guo, Han Wang, Guan Ning Lin*
+     *Zhe Liu, Yingli Gong, Yihang Bao, Yuanzhao Guo, Han Wang, Guanning Lin*
      
 1. **TM-ZC: A Deep Learning-Based Predictor for the Z-Coordinate of Residues in α-Helical Transmembrane Proteins.** IEEE Access 2020. [paper](https://ieeexplore.ieee.org/document/9016169)
 
