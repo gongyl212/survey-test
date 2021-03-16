@@ -1,6 +1,6 @@
 # Published Papers
 
-1. **TMP-SSurface2: A Novel Deep Learning-Based Surface Accessibility Predictor for Transmembrane Protein Sequence.** Frontiers in Bioengineering and Biotechnology 2020. [paper](https://www.frontiersin.org/articles/10.3389/fbioe.2020.629937/full)
+1. **TMP-SSurface2: A Novel Deep Learning-Based Surface Accessibility Predictor for Transmembrane Protein Sequence.** Frontiers in Bioengineering and Biotechnology 2020. [paper](https://www.frontiersin.org/articles/10.3389/fgene.2021.656140/full)
 
      *Zhe Liu, Yingli Gong, Yuanzhao Guo, Xiao Zhang, Chang Lu, li Zhang*, Han Wang
 
