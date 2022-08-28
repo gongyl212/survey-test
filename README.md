@@ -1,8 +1,13 @@
 # Published Papers
 
+1. **Graph Neural Network for Higher-Order Dependency Networks.** WWW 2022: 1622-1630. [paper](https://dl.acm.org/doi/10.1145/3485447.3512161)
+    
+    *Di Jin, Yingli Gong, Zhiqiang Wang, Zhizhi Yu, Dongxiao He, Yuxiao Huang, Wenjun Wang*
+. 
+
 1. **TMP-SSurface2: A Novel Deep Learning-Based Surface Accessibility Predictor for Transmembrane Protein Sequence.** Frontiers in Genetics 15 March 2021. [paper](https://www.frontiersin.org/articles/10.3389/fgene.2021.656140/full)
 
-     *Zhe Liu, Yingli Gong, Yuanzhao Guo, Xiao Zhang, Chang Lu, li Zhang*, Han Wang
+     *Zhe Liu, Yingli Gong, Yuanzhao Guo, Xiao Zhang, Chang Lu, li Zhang, Han Wang*
 
 1. **TMPSS: A Deep Learning-Based Predictor for Secondary Structure and Topology Structure Prediction of Alpha-helical Transmembrane Proteins.** Frontiers in Bioengineering and Biotechnology 25 January 2021. [paper](https://www.frontiersin.org/articles/10.3389/fbioe.2020.629937/full)
 
