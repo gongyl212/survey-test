@@ -1,6 +1,6 @@
 # Published Papers
 
-1. **Graph Neural Network for Higher-Order Dependency Networks.** WWW 2022: 1622-1630. [paper](https://dl.acm.org/doi/10.1145/3485447.3512161)
+1. **Graph Neural Network for Higher-Order Dependency Networks.** WWW 2022: April 2022 1622-1630. [paper](https://dl.acm.org/doi/10.1145/3485447.3512161)
     
     *Di Jin, Yingli Gong, Zhiqiang Wang, Zhizhi Yu, Dongxiao He, Yuxiao Huang, Wenjun Wang*
 . 
