@@ -13,11 +13,11 @@
 
      *Zhe Liu, Yingli Gong, Yihang Bao, Yuanzhao Guo, Han Wang, Guanning Lin*
      
-1. **TM-ZC: A Deep Learning-Based Predictor for the Z-Coordinate of Residues in α-Helical Transmembrane Proteins.** IEEE Access 2020. [paper](https://ieeexplore.ieee.org/document/9016169)
+1. **TM-ZC: A Deep Learning-Based Predictor for the Z-Coordinate of Residues in α-Helical Transmembrane Proteins.** IEEE Access 27 February 2020. [paper](https://ieeexplore.ieee.org/document/9016169)
 
      *Chang Lu, Yingli Gong, Zhe Liu, Yuanzhao Guo, Zhiqiang Ma, Han Wang*
      
-1. **TMP-SSurface: A Deep Learning-Based Predictor for Surface Accessibility of Transmembrane Protein Residues.** Crystals 2019. [paper](https://www.mdpi.com/2073-4352/9/12/640)
+1. **TMP-SSurface: A Deep Learning-Based Predictor for Surface Accessibility of Transmembrane Protein Residues.** Crystals 29 November 2019. [paper](https://www.mdpi.com/2073-4352/9/12/640)
 
      *Chang Lu, Zhe Liu, Bowen Kan, Yingli Gong, Zhiqiang Ma, Han Wang*
      
